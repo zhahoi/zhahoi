@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhahoi
-- 👀 I’m interested in image colorization and image generation.
+- 👀 I’m interested in deep learning and computer version.
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
